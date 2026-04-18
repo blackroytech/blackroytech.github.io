@@ -8,7 +8,7 @@
     android:orientation="vertical"
     android:background="@drawable/background"
 
-    tools:context=".Enhanment_One.Lockscreen">
+    tools:context=".Enhancement_One.Lockscreen">
 
     <TextView
         android:layout_width="wrap_content"

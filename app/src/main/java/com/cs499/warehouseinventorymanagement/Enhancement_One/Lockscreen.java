@@ -1,6 +1,6 @@
 //Eboni Royal
 
-package com.cs499.warehouseinventorymanagement.Enhanment_One;
+package com.cs499.warehouseinventorymanagement.Enhancement_One;
 
 import android.Manifest;
 import android.app.KeyguardManager;

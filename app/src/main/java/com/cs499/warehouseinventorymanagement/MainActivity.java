@@ -22,7 +22,7 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 
-import com.cs499.warehouseinventorymanagement.Enhanment_One.Lockscreen;
+import com.cs499.warehouseinventorymanagement.Enhancement_One.Lockscreen;
 import com.cs499.warehouseinventorymanagement.database.InventoryDB;
 
 import java.util.ArrayList;
