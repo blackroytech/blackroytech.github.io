@@ -5,12 +5,17 @@
 Hello! My name is Eboni and I started attending Southern New Hampshire University in 2023 to complete my degree in Computer Science. Thtoughout the progam I have learned a variety of programming langua
 
 ### ePortfolio Summary 
-I selected one artifact,CS 360: Mobile Architecture and Programming, to demonstrate my technical and professional skills that aligned with the five course outcomes across these three specific catgories:
+I selected one artifact, CS 360: Mobile Architecture and Programming, to demonstrate my technical and professional skills that aligned with the five course outcomes across these three specific catgories:
  * Software Design and Engineering
  * Algorithms and Data Structures
  * Databases
-    
-  
+
+The **first enhancement** 
+
+The **second enhancement**
+
+The **third enhancement**
+
     
 
 ### Course Outcomes
@@ -27,6 +32,8 @@ I selected one artifact,CS 360: Mobile Architecture and Programming, to demonstr
 
 
 ### Software Design and Engineering 
+
+[Enhancement One - Biometric Feature](https://github.com/blackroytech/blackroytech.github.io/tree/Enhancement-One)
 
 
 
