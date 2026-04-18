@@ -2,10 +2,16 @@
 
 ### About Me
 
-Hello! My name is Eboni and I have been attending 
+Hello! My name is Eboni and I started attending Southern New Hampshire University in 2023 to complete my degree in Computer Science. Thtoughout the progam I have learned a variety of programming langua
 
 ### ePortfolio Summary 
-
+I selected one artifact,CS 360: Mobile Architecture and Programming, to demonstrate my technical and professional skills that aligned with the five course outcomes across these three specific catgories:
+ * Software Design and Engineering
+ * Algorithms and Data Structures
+ * Databases
+    
+  
+    
 
 ### Course Outcomes
 1.	Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.  
@@ -17,6 +23,7 @@ Hello! My name is Eboni and I have been attending
 
 
 ### Code Review Video
+
 
 
 ### Software Design and Engineering 
