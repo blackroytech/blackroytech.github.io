@@ -20,17 +20,14 @@ import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
-import androidx.room.Room;
 
 
-
+import com.cs499.warehouseinventorymanagement.Enhanment_One.Lockscreen;
 import com.cs499.warehouseinventorymanagement.database.InventoryDB;
-import com.cs499.warehouseinventorymanagement.database.ItemsDao;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
-import java.util.TreeMap;
 
 public class MainActivity extends AppCompatActivity {
     //make accessible for all methods

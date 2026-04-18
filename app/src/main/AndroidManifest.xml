@@ -22,7 +22,7 @@
 
         <!--Make LockScreen the starting activity-->
         <activity
-            android:name=".Lockscreen"
+            android:name=".Enhanment_One.Lockscreen"
             android:label="Mobile2App Inventory"
             android:exported="true"
             android:theme="@style/Theme.WarehouseInventoryManagement">

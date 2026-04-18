@@ -1,6 +1,6 @@
 //Eboni Royal
 
-package com.cs499.warehouseinventorymanagement;
+package com.cs499.warehouseinventorymanagement.Enhanment_One;
 
 import android.Manifest;
 import android.app.KeyguardManager;
@@ -16,10 +16,12 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
-import androidx.annotation.Nullable;
 import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.ActivityCompat;
+
+import com.cs499.warehouseinventorymanagement.MainActivity;
+import com.cs499.warehouseinventorymanagement.R;
 
 public class Lockscreen extends AppCompatActivity {
     // Create a cancellation signal
