@@ -29,7 +29,11 @@ The **third enhancement**
 
 
 ### Code Review Video
-Linked below is my code review of my original program for my inventory management application. I reviewed each file that would be enhanced and addressed the known issues and errors that were present. I explained in the video the original program's existing functionality, which happened to be non-operational. I discussed how my planned enhancments will meet each course outcome. With my code review, I achieved the course outcome to Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts. 
+Linked below is my code review of my original program for my inventory management application. I reviewed each file that would be enhanced and addressed the known issues and errors that were present. I explained in the video the original program's existing functionality, which happened to be non-operational. I discussed how my planned enhancments will meet each course outcome.
+
+**Course Outcomes Achieved**
+
+With my code review, I achieved the course outcome to Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts. 
 
 [Watch Code Review](https://www.youtube.com/watch?v=49madvSatgg)
 
@@ -38,11 +42,12 @@ Linked below is my code review of my original program for my inventory managemen
 
 [Enhancement One - Biometric Feature](https://github.com/blackroytech/blackroytech.github.io/tree/Enhancement-One)
 
-For the **first enhancement**,  I chose to improve the login feature for my application. For the original application, the login feature was just an username and password input field, which were both hard-coded in the program. To enhance, I implemented a biometric authentication feature that allow authorized users to use Touch ID to gain access and make modifications to the inventory. For the user's expercience, a succesful message will appear if granted access, if the user fails to add a fingerprint to their device, wrong user, or the fingerprint feature is not enabled in the device settings, a correlating error message will appear denying access. With this feature, I was able to reduce security vulnerabilities and modernize the app. I made improvements to my code quality and readability as well by commenting the steps in each file that handles the code and permissions making it easier to follow than before. I showcased my abilities and skills of implementing UI design, interacting with UI components in Java, and implementing light security through login biometric credentials by using an Android security framework. 
+For the **first enhancement**,  I chose to improve the login feature for my application. For the original application, the login feature was just an username and password input field, which were both hard-coded in the program. To enhance, I implemented the Android Biometric API which allowed me to develop a biometric authentication feature that allow authorized users to use Touch ID to gain access and make modifications to the inventory. For an easier user experience, a successful message will appear if granted access, but if the user fails to add a fingerprint to their device, wrong user, or the fingerprint feature is not enabled in the device settings, a correlating error message will appear denying access. With this feature, I was able to reduce security vulnerabilities and modernize the app. I made improvements to my code quality and readability as well by commenting the steps in each file that handles the code and permissions displaying my abilites to follow clean code principles. I showcased my abilities and skills of implementing UI design, interacting with UI components in Java, and implementing light security through login biometric credentials by using an Android security framework. 
 
 **Course Outcomes Achieved**
 
 With this enhancement, I was able to develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.  
+
 **HOW TO USE **
 
 
