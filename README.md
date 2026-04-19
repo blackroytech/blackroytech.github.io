@@ -29,6 +29,7 @@ The **third enhancement**
 
 
 ### Code Review Video
+Linked below is my code review of my original program for my inventory management application. I reviewed each file that would be enhanced and addressed the known issues and errors that were present. I explained in the video the original program's existing functionality, which happened to be non-operational. I discussed how my planned enhancments will meet each course outcome. With my code review, I achieved the course outcome to Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts. 
 
 [Watch Code Review](https://www.youtube.com/watch?v=49madvSatgg)
 
