@@ -2,7 +2,8 @@
 
 ### About Me and Professional Self Assessment
 
-Hello! My name is Eboni and I started attending Southern New Hampshire University in 2023 to complete my degree in Computer Science. Thtoughout the progam I have learned a variety of programming langua
+My name is Eboni Royal and I have been attending Southern New Hampshire University since 2023, pursuing my Bachelor's degree in Computer Science. I will complete the program in May 2026.
+Since a child I have always been interested in technology. I enlisted in the United States Army in 2015 where I was a radio operator-maintainer, after transitioning out of the service in 2019, I became an IT Specialist where I learn how to manage, configure, and troubleshoot various types of software and hardware. I decided that I wanted to go more in depth with computers adn learn how to develop.  Throughout the program, I was able to gain and improve technical skills that allI have learned a variety of programming languanges and 
 
 ### ePortfolio Summary 
 I selected one artifact from my CS 360: Mobile Architecture and Programming course that I completed in June 2025, to demonstrate my growth, technical, and professional skills that aligned with the five course outcomes across these three specific catgories:
@@ -29,7 +30,7 @@ The **third enhancement**
 
 
 ### Code Review Video
-The following is my code review of my original program for my inventory management application. I reviewed each file that would be enhanced and addressed the known issues and errors present. I explained the original program's existing functionality in the video, which was non-operational. I discussed how my planned enhancements would meet each course outcome. 
+The following is my informal code review of my original program for my inventory management application. I reviewed each file that would be enhanced and addressed the known issues and errors present. I explained the original program's existing functionality in the video, which was non-operational. I discussed how my planned enhancements would meet each course outcome. 
 
 **Course Outcomes Achieved**
 
@@ -64,4 +65,16 @@ For the **second enhancement**, I chose to replace my array a
 
 ### Enhancment Three: Databases
 
-For the **third enhancement**, I used SQLite as my original database for the application. The SQLite database consisted of 
+For the **third enhancement**,I replaced my original SQLite database with Room Database to 
+
+
+
+
+
+
+
+
+
+
+
+
