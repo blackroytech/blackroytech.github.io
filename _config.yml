@@ -3,5 +3,5 @@ title: Eboni Royal
 #add logo for profile picture in future
 description: This portfolio was created for my CS-499 Capstone for Southern New Hampshire University. It highlights my professional development, academic growth and technical skills that I have developed throughout the program.
 #ability to download code
-show downloads: true
+show_downloads: true
 theme: jekyll-theme-minimal
