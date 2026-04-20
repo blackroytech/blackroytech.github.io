@@ -7,3 +7,7 @@ For the **first enhancement**, I chose to improve the login feature for my appli
 With this enhancement, I was able to develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources. Eliminating the hardcoded strings that were used in the original program prevents user credentials from being potentially exposed if the application was to be reversed engineered. Adding a security layer such as the Biometric API, allows the user's data to be protected and lowers the chance of exploitaion by validating the user's identity. 
 
 **HOW TO USE**
+
+
+<img width="400" height="215" alt="Touch ID" src="https://github.com/user-attachments/assets/ba89ff7c-7cd3-464f-ad5a-4a2f6c1abc4a" />
+
