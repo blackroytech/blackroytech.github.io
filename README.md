@@ -8,14 +8,19 @@ With this enhancement, I was able to develop a security mindset that anticipates
 
 **HOW TO USE**
 
-*On Device: Ensure that there is a security pin set up and fingerprint access is enabled in device / emulator settings
+* On Device: Ensure that there is a security pin set up and fingerprint access is enabled in device / emulator settings
 * While running application in the emulator:
     * Press Login on the screen
-<img width="400" height="990" alt="Sensor" src="https://github.com/user-attachments/assets/8a1e835c-2e51-4e4b-b5ec-e60f5c587561" />
+
+
+https://github.com/user-attachments/assets/3843d5cc-f0e9-4ebc-bd49-264f25ccf748
+
+
 
       
-    * Once Touch ID pops up touch the 3 dots in the top right corner to access extended controls
-    * Extened Controls: Go to the fingerprint tab and select your fingerprint, for my application it is "1" and press Touch Sensor
+* Once Touch ID pops up touch the 3 dots in the top right corner to access extended controls
+
+* Extened Controls: Go to the fingerprint tab and select your fingerprint, for my application it is "1" and press Touch Sensor
 
 
 
