@@ -1,7 +1,7 @@
 
 //ENHANCEMENT TWO: Data Structure Hashmap
 //ENHANCEMNT THREE: Incorporate Room DB
-package com.cs499.warehouseinventorymanagement;
+package com.cs499.warehouseinventorymanagement.Enhancement_Two;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -23,7 +23,9 @@ import androidx.recyclerview.widget.RecyclerView;
 
 
 import com.cs499.warehouseinventorymanagement.Enhancement_One.Lockscreen;
-import com.cs499.warehouseinventorymanagement.database.InventoryDB;
+import com.cs499.warehouseinventorymanagement.Enhancement_Three.database.InventoryDB;
+import com.cs499.warehouseinventorymanagement.InventoryAdapter;
+import com.cs499.warehouseinventorymanagement.R;
 
 import java.util.ArrayList;
 import java.util.HashMap;

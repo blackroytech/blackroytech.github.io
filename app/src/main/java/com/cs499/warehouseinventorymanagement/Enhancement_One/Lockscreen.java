@@ -20,7 +20,7 @@ import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.ActivityCompat;
 
-import com.cs499.warehouseinventorymanagement.MainActivity;
+import com.cs499.warehouseinventorymanagement.Enhancement_Two.MainActivity;
 import com.cs499.warehouseinventorymanagement.R;
 
 public class Lockscreen extends AppCompatActivity {

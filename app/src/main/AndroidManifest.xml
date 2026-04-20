@@ -33,7 +33,7 @@
             </intent-filter>
         </activity>
         <!--Add MainActivity-->
-        <activity android:name=".MainActivity"
+        <activity android:name=".Enhancement_Two.MainActivity"
             android:exported="false"/>
     </application>
 

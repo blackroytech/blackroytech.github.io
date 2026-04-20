@@ -1,4 +1,4 @@
-package com.cs499.warehouseinventorymanagement;
+package com.cs499.warehouseinventorymanagement.Enhancement_Two;
 // This class is apart of Enhancement Two
 // Class for inventory items
 

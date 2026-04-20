@@ -1,4 +1,4 @@
-package com.cs499.warehouseinventorymanagement.database;
+package com.cs499.warehouseinventorymanagement.Enhancement_Three.database;
 //ENHANCEMENT 3
 //This will serve as the database for inventory
 //Implementing Room DB
@@ -11,7 +11,7 @@ import androidx.room.Room;
 import androidx.room.RoomDatabase;
 import android.content.Context;
 
-import com.cs499.warehouseinventorymanagement.Items;
+import com.cs499.warehouseinventorymanagement.Enhancement_Two.Items;
 //annotate database
 @Database(entities = {Items.class}, version = 1)
 //must be abstract class that extends to RoomDatabase

@@ -1,4 +1,4 @@
-package com.cs499.warehouseinventorymanagement.database;
+package com.cs499.warehouseinventorymanagement.Enhancement_Three.database;
 
 import androidx.room.Dao;
 import androidx.room.Delete;
@@ -7,7 +7,7 @@ import androidx.room.OnConflictStrategy;
 import androidx.room.Query;
 import androidx.room.Update;
 
-import com.cs499.warehouseinventorymanagement.Items;
+import com.cs499.warehouseinventorymanagement.Enhancement_Two.Items;
 
 import java.util.List;
 
