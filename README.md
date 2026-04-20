@@ -51,7 +51,7 @@ With my code review, I achieved the course outcome to Design, develop, and deliv
 
 [Enhancement One - Biometric Feature](https://github.com/blackroytech/blackroytech.github.io/tree/Enhancement-One)
 
-<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/ce4d4414-4fb6-4872-b3c7-4e8593c5b96f" />
+<img width="500" height="550" alt="image" src="https://github.com/user-attachments/assets/ce4d4414-4fb6-4872-b3c7-4e8593c5b96f" />
 
 
 For the **first enhancement**, I chose to improve the login feature for my application. For the original application, the login feature was a simple username and password input field, both of which were hardcoded in the program. To enhance this feature, I implemented the Android Biometric API, which allowed me to develop a biometric authentication feature that allows authorized users to use the Touch ID to access and modify the inventory. For an easier user experience, a successful message appears if access is granted; however, if the user fails to add a fingerprint to their device, the incorrect fingerprint is used, or the fingerprint feature is not enabled in the device settings, a correlating error message appears denying access. With this feature, I reduced security vulnerabilities and modernized the app. I improved my code quality and readability by commenting on the steps in each file that handles the code and permissions, demonstrating my ability to follow the principles of clean coding. I showcased my abilities and skills in implementing UI design, interacting with UI components in Java, and implementing light security through login biometric credentials using an Android security framework. 
