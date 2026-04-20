@@ -65,7 +65,8 @@ The artifact, CS 360: Mobile Architecture and Programming, involved creating an 
 
 
 
-https://github.com/user-attachments/assets/def4c941-3f98-4575-9ad3-e0fd21d6728b
+<img width="902" height="344" alt="image" src="https://github.com/user-attachments/assets/3ff711cf-fd6b-444c-b974-5265e673c762" />
+
 
 
 
