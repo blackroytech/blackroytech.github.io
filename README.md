@@ -59,7 +59,7 @@ The following is my informal code review of my original program for my inventory
 
 
 
-### Enhancment Three: Databases
+### Enhancement Three: Databases
 
 For the **third enhancement**,I replaced my original SQLite database with Room Database to 
 
