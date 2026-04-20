@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/3843d5cc-f0e9-4ebc-bd49-264f25ccf748
 
 
       
-* Once Touch ID pops up touch the 3 dots in the top right corner to access extended controls
+   * Once Touch ID pops up touch the 3 dots in the top right corner to access extended controls
 
 * Extened Controls: Go to the fingerprint tab and select your fingerprint, for my application it is "1" and press Touch Sensor
 
