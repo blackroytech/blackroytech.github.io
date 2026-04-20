@@ -71,7 +71,7 @@ https://github.com/user-attachments/assets/5b26e1f6-508f-4433-9c73-ac4b5e22702b
 
 
 ### Original Application 
-[Orginal Inventory Application - CS 360] (https://github.com/blackroytech/blackroytech.github.io/tree/main/Original%20Application/Eboni%20Royal%20Inventory%20App/EboniRoyalInventoryApp2)
+[Orginal Inventory Application - CS 360] ([https://github.com/blackroytech/blackroytech.github.io/tree/main/Original%20Application/Eboni%20Royal%20Inventory%20App/EboniRoyalInventoryApp2](https://github.com/blackroytech/blackroytech.github.io/tree/main/Original%20Application/Eboni%20Royal%20Inventory%20App/EboniRoyalInventoryApp2))
 
 
 
