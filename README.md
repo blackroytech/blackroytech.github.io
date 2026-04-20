@@ -65,13 +65,6 @@ The artifact, CS 360: Mobile Architecture and Programming, involved creating an 
 [Enhancement Three- Room Persistence Library](https://github.com/blackroytech/blackroytech.github.io/tree/Enhancement-Three)
 
 
-
-
-
-<img width="1000"  alt="Screenshot 2026-04-20 044348" src="https://github.com/user-attachments/assets/e87cc57c-f2ce-4015-b7ae-43c58eeed2be" />
-
-
-
 <img width="1000" height="344" alt="image" src="https://github.com/user-attachments/assets/67139f6d-2950-4cc3-a7b0-6948d1910906" />
 
 
