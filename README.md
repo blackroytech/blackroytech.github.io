@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/88d469aa-f573-4a8f-b13a-f7f16613f06a
 
 
 
-   * Extened Controls: Go to the fingerprint tab and select your fingerprint, for my application it is "1" and press Touch Sensor
+   * Extended Controls: Go to the fingerprint tab and select your fingerprint, for my application it is "1" and press Touch Sensor
 
 
 
