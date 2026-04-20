@@ -5,9 +5,8 @@ For the **second enhancement**, I chose to convert my Array list to a HashMap da
 
 **Course Outcomes Achieved**
 
-With this enhancement, I showcased my ability to design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices. I implemented a solution to handle increasing data and the risk of duplicate entires. I optimized my application choosing a HashMap structure for efficient data retreival. 
+With this enhancement, I showcased my ability to design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices. I also demonstrated an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals. I implemented a solution to handle increasing data and the risk of duplicate entires. I optimized my application choosing a HashMap structure for efficient data retreival. 
 
-I also demonstrated my abilt
 
 **UML Diagram**
 
