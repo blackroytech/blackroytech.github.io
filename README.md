@@ -14,3 +14,26 @@ improving the overall stability of the application.
 * After logging in, the application will connect to the Inventory Database
 * To check database, locate the App Inspection:
   <img width="1905" height="656" alt="image" src="https://github.com/user-attachments/assets/edd24f9a-600d-470e-a434-322cc90a5e7b" />
+* Items that are *added* or *updated* will appear in the database and on the UI 
+
+
+
+
+https://github.com/user-attachments/assets/f93e6644-c6d3-4ecf-9aee-ed26e6120cd3
+
+https://github.com/user-attachments/assets/78e20883-fe9f-4833-a039-18782f709b7f
+
+
+* Items that are *deleted* will be removed from the database and UI
+
+https://github.com/user-attachments/assets/2cb51814-5d8c-4f41-acbb-a0efffb6db32
+
+
+* Search by SKU:
+
+
+
+https://github.com/user-attachments/assets/2e6caa6a-9c87-4703-9624-c84f917d72bd
+
+
+  
