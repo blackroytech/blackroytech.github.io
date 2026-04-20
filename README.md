@@ -53,7 +53,9 @@ The following is my informal code review of my original program for my inventory
 
 ### Enhancement Two: Algorithms and Data Structures
 
-For the **second enhancement**, I chose to replace my array array data structure with ash
+[Enhancement Two- HashMap Structure](https://github.com/blackroytech/blackroytech.github.io/tree/Enhancement-Two)
+
+
 
 
 
