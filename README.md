@@ -5,12 +5,11 @@ For the **second enhancement**, I chose to convert my Array list to a HashMap da
 
 **Course Outcomes Achieved**
 
-* Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices. 
+* Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices.
+
+**UML Diagram**
 
 
-### Enhancment Three: Databases
-
-For the **third enhancement**,I replaced my original SQLite database with Room Database to 
 
 
 
