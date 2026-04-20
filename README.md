@@ -9,5 +9,5 @@ With this enhancement, I was able to develop a security mindset that anticipates
 **HOW TO USE**
 
 
-<img width="700" height="515" alt="Touch ID" src="https://github.com/user-attachments/assets/ba89ff7c-7cd3-464f-ad5a-4a2f6c1abc4a" />
+
 
