@@ -44,7 +44,7 @@ The following is my informal code review of my original program for my inventory
 
 With my code review, I achieved the course outcome to Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts. 
 
-[Watch Code Review](https://www.youtube.com/watch?v=49madvSatgg)
+[Watch Code Review](https://www.youtube.com/watch?v=49madvSatgg)(https://www.youtube.com/watch?v=49madvSatgg)
 
 
 ### Enhancement One: Software Design and Engineering 
