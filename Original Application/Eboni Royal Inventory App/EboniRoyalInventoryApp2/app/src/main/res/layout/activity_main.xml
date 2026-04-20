@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login_background"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    android:padding="15dp"
+    tools:context=".MainActivity">
+
+
+<!--title of app-->
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:textAlignment="center"
+        android:textColor= "#450909"
+        android:textStyle="bold"
+        android:textSize="30sp"/>
+    <EditText
+        android:id="@+id/username_edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:background="@drawable/square_login"
+        android:hint="@string/enter_username"
+        android:inputType="text"
+        android:padding="16dp"
+        android:text="@string/username"
+        android:textStyle="bold"
+        android:textColor="@color/material_dynamic_neutral10"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/password_edit_text1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:background="@drawable/square_login"
+        android:hint="@string/enter_password"
+        android:inputType="numberPassword"
+        android:padding="16dp"
+        android:text="@string/password"
+        android:textStyle="bold"
+        android:textColor="@color/material_dynamic_neutral10"
+        android:textSize="18sp"
+         />
+
+    <Button
+        android:id="@+id/loginButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/black"
+        android:textColor="#B38992"
+        android:text="@string/login" />
+<!-- Create username and password for new user-->
+    <EditText
+        android:id="@+id/create_username_text_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:autofillHints="Default: username"
+        android:background="@drawable/square_login"
+        android:hint="@string/new_username2"
+        android:inputType="text"
+        android:padding="16dp"
+        android:text="@string/new_username"
+        android:textStyle="bold"
+        android:textColor="@color/material_dynamic_neutral10"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/password_edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:background="@drawable/square_login"
+        android:hint="@string/create_password"
+        android:inputType="textPassword"
+        android:padding="16dp"
+        android:text="@string/new_password"
+        android:textColor="@color/material_dynamic_neutral10"
+        android:textSize="18sp"
+        />
+    <!-- retype password to verify it matches -->
+    <EditText
+        android:id="@+id/password_edit_text2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:background="@drawable/square_login"
+        android:hint="@string/retype_password"
+        android:inputType="textPassword"
+        android:padding="16dp"
+        android:text="@string/retype_password"
+        android:textColor="@color/material_dynamic_neutral10"
+        android:textSize="18sp"
+        />
+<!--should create and store username and password-->
+    <Button
+        android:id="@+id/loginButton2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/black"
+        android:text="@string/create_login"
+        android:textColor="#B38992" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="73dp"
+        android:src="@drawable/baseline_inventory_24" />
+</LinearLayout>
+
+
+
