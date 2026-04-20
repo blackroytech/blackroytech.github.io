@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/lock"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@drawable/background"
+
+    tools:context=".Lockscreen">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_title"
+        android:textStyle="bold"
+        android:textColor="@color/warm_brown"
+        android:textSize="30dp"
+        android:shadowColor="#000000"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="2.0"
+        >
+
+    </TextView>
+
+<!--    <ImageView-->
+<!--        android:layout_width="160dp"-->
+<!--        android:layout_height="125dp"-->
+<!--        android:contentDescription="@string/fp_access"-->
+<!--        android:src="@drawable/inventory">-->
+
+<!--    </ImageView>-->
+
+    <Button
+        android:id="@+id/fingerButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:backgroundTint="@color/warm_brown"
+        android:text="Login" />
+
+
+</LinearLayout>
