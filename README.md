@@ -40,6 +40,7 @@ The artifact, CS 360: Mobile Architecture and Programming, involved creating an 
 
 **Course Outcomes Achieved**
 
+* Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science
 * Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts. 
 
 [Watch Code Review](https://www.youtube.com/watch?v=49madvSatgg)
