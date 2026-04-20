@@ -1,7 +1,4 @@
 
-
-https://github.com/user-attachments/assets/306af5e2-ebb6-4090-bfa0-eb4ec3b82449
-
 # CS499 | ePortfolio
 
 ### About Me || Professional Self Assessment
