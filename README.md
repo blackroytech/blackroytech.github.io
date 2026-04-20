@@ -33,7 +33,9 @@ The artifact, CS 360: Mobile Architecture and Programming, involved creating an 
 
 
 ### Code Review Video
-The following is my informal code review of my original program for my inventory management application. I reviewed each file that would be enhanced and addressed the known issues and errors present. I explained the original program's existing functionality in the video, which was non-operational. I discussed how my planned enhancements would meet each course outcome. 
+
+  The following is my informal code review of my original program for my inventory management application. I reviewed each file that would be enhanced and addressed the vulnerabilities and errors that were present. I explained the original program's existing functionality in the video, which was non-operational. I discussed how each enhancement would meet a course outcome.
+
 
 **Course Outcomes Achieved**
 
