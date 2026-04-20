@@ -9,7 +9,7 @@ With this enhancement, I showcased my ability to design and evaluate computing s
 
 
 **UML Diagram**
-<img width="720" height="993" alt="HashMap UML" src="https://github.com/user-attachments/assets/10e4e22a-d92a-40cb-8fca-bd4583cf7448" />
+<img width="720" height="993" alt="HashMap UML" src="https://github.com/user-attachments/assets/81ce1522-cdff-4f7a-b53a-7acb033a118e" />
 
 
 
