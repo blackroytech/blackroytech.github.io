@@ -51,8 +51,7 @@ With my code review, I achieved the course outcome to Design, develop, and deliv
 
 [Enhancement One - Biometric Feature](https://github.com/blackroytech/blackroytech.github.io/tree/Enhancement-One)
 
-<img width="300" height="550" alt="image" src="https://github.com/user-attachments/assets/ce4d4414-4fb6-4872-b3c7-4e8593c5b96f" />
-<img width="300" height="550" alt="touchSensor" src="https://github.com/user-attachments/assets/e9037af4-4fe9-4a9a-8961-839dd7b8653b" />
+<img width="300" height="550" alt="image" src="https://github.com/user-attachments/assets/ce4d4414-4fb6-4872-b3c7-4e8593c5b96f" /> <img width="300" height="550" alt="touchSensor" src="https://github.com/user-attachments/assets/e9037af4-4fe9-4a9a-8961-839dd7b8653b" />
 
 
 
