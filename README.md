@@ -21,11 +21,6 @@ I selected one artifact from my CS 360: Mobile Architecture and Programming cour
 
 The artifact, CS 360: Mobile Architecture and Programming, involved creating an Android application using Java in the Android Studio IDE. The application I created for this course was an inventory management application. The purpose of this software is to provide a way for warehouse associates to manage and track warehouse inventory. For that course, the inventory app was non-functional, so I selected this application for each enhancement to deliver an improved fully functional software with a biometric security feature. 
 
-The **first enhancement**, I improved the login feature by implementing a biometric feature as a layer of security to showcase my abilities in software design and engineering.
-The **second enhancement**
-
-The **third enhancement**
-
     
 
 ### Course Outcomes
@@ -54,21 +49,6 @@ With my code review, I achieved the course outcome to Design, develop, and deliv
 <p float="left">
 <img width="300" height="550" alt="image" src="https://github.com/user-attachments/assets/ce4d4414-4fb6-4872-b3c7-4e8593c5b96f" /> <img width="300" height="550" alt="touchSensor" src="https://github.com/user-attachments/assets/e9037af4-4fe9-4a9a-8961-839dd7b8653b" />
 </p>
-
-
-
-
-
-For the **first enhancement**, I chose to improve the login feature for my application. For the original application, the login feature was a simple username and password input field, both of which were hardcoded in the program. To enhance this feature, I implemented the Android Biometric API, which allowed me to develop a biometric authentication feature that allows authorized users to use the Touch ID to access and modify the inventory. For an easier user experience, a successful message appears if access is granted; however, if the user fails to add a fingerprint to their device, the incorrect fingerprint is used, or the fingerprint feature is not enabled in the device settings, a correlating error message appears denying access. With this feature, I reduced security vulnerabilities and modernized the app. I improved my code quality and readability by commenting on the steps in each file that handles the code and permissions, demonstrating my ability to follow the principles of clean coding. I showcased my abilities and skills in implementing UI design, interacting with UI components in Java, and implementing light security through login biometric credentials using an Android security framework. 
-
-**Course Outcomes Achieved**
-
-With this enhancement, I was able to develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources. Eliminating the hardcoded strings that were used in the original program prevents user credentials from being potentially exposed if the application was to be reversed engineered. Adding a security layer such as the Biometric API, allows the user's data to be protected and lowers the chance of exploitaion by validating the user's identity. 
-
-
-
-
-
 
 
 ### Enhancement Two: Algorithms and Data Structures
