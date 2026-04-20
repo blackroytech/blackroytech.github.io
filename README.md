@@ -15,7 +15,7 @@ Each enhancement demonstrates my ability to write effective code that not only r
 
 
 ### ePortfolio Summary 
-I selected one artifact from my CS 360: Mobile Architecture and Programming course that I completed in June 2025, to demonstrate my growth, technical, and professional skills that aligned with the five course outcomes across these three specific catgories:
+I selected one artifact from my CS 360: Mobile Architecture and Programming course that I completed in June 2025, to demonstrate my growth, technical, and professional skills that aligned with the five course outcomes across these three specific categories:
  * Software Design and Engineering
  * Algorithms and Data Structures
  * Databases
