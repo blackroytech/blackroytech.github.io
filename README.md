@@ -4,10 +4,18 @@ For the **first enhancement**, I chose to improve the login feature for my appli
 
 **Course Outcomes Achieved**
 
-With this enhancement, I was able to develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources. Eliminating the hardcoded strings that were used in the original program prevents user credentials from being potentially exposed if the application was to be reversed engineered. Adding a security layer such as the Biometric API, allows the user's data to be protected and lowers the chance of exploitaion by validating the user's identity. 
+With this enhancement, I was able to develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources. Eliminating the hardcoded strings that were used in the original program prevents user credentials from being potentially exposed if the application was to be reversed engineered. Adding a security layer such as the Biometric API, allows the user's data to be protected and lowers the chance of exploitaion by validating the user's identity.
 
 **HOW TO USE**
 
+* On Device: Ensure that there is a security pin set up and fingerprint access is enabled in device / emulator settings
+* While running application in the emulator:
+    * Press Login on the screen
+<img width="1678" height="990" alt="Sensor" src="https://github.com/user-attachments/assets/8a1e835c-2e51-4e4b-b5ec-e60f5c587561" />
+
+      
+    * Once Touch ID pops up touch the 3 dots in the top right corner to access extended controls
+    * Extened Controls: Go to the fingerprint tab and select your fingerprint, for my application it is "1" and press Touch Sensor
 
 
 
