@@ -75,7 +75,7 @@ The artifact, CS 360: Mobile Architecture and Programming, involved creating an 
 
 
 ### Original Application 
-[Orginal Inventory Application - CS 360](https://github.com/blackroytech/blackroytech.github.io/tree/main/Original%20Application)
+[Original Inventory Application - CS 360](https://github.com/blackroytech/blackroytech.github.io/tree/main/Original%20Application)
 
 
 
