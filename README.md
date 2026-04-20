@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/306af5e2-ebb6-4090-bfa0-eb4ec3b82449
+
 # CS499 | ePortfolio
 
 ### About Me || Professional Self Assessment
@@ -65,7 +69,10 @@ The artifact, CS 360: Mobile Architecture and Programming, involved creating an 
 
 
 
-<img width="550" height="300" alt="image" src="https://github.com/user-attachments/assets/3ff711cf-fd6b-444c-b974-5265e673c762" />
+
+
+https://github.com/user-attachments/assets/493ffc08-a851-4264-89a8-f82b0ff862c9
+
 
 
 
